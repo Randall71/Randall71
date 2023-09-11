@@ -9,6 +9,14 @@
          |_  |_
 ```
 
+# Contributions
+| Name                                                                                                               | Stars                                                                                                                                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [react-native](https://github.com/facebook/react-native/commits?author=Randall71)                                   | [![GitHub Repo stars](https://img.shields.io/github/stars/facebook/react-native?color=black&label=%F0%9F%8C%9F&style=for-the-badge)](https://github.com/facebook/react-native/commits?author=Randall71)                                                    |
+| [expo](https://github.com/expo/expo/commits?author=Randall71)                                                       | [![GitHub Repo stars](https://img.shields.io/github/stars/expo/expo?color=black&label=%F0%9F%8C%9F&style=for-the-badge)](https://github.com/expo/expo/commits?author=Randall71)                                                                            |
+
+
+
 <!--
 ### Hi there 👋
 
