@@ -1,6 +1,17 @@
-### Hi there 👋
+```
+|￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
+ React Native is the future
+|---------------------------|
+       \ (•◡•) / 
+        \     /   
+         —————
+         |   |
+         |_  |_
+```
 
 <!--
+### Hi there 👋
+
 **Randall71/Randall71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
