@@ -18,6 +18,8 @@
 | [solito](https://github.com/nandorojo/solito/commits?author=Randall71)| [![GitHub Repo stars](https://img.shields.io/github/stars/nandorojo/solito?color=black&label=%F0%9F%8C%9F&style=for-the-badge)](https://github.com/nandorojo/solito/commits?author=Randall71)|
 | [restyle](https://github.com/Shopify/restyle/commits?author=Randall71)| [![GitHub Repo stars](https://img.shields.io/github/stars/Shopify/restyle?color=black&label=%F0%9F%8C%9F&style=for-the-badge)](https://github.com/Shopify/restyle/commits?author=Randall71)|
 | [react-native-website](https://github.com/facebook/react-native-website/commits?author=Randall71)| [![GitHub Repo stars](https://img.shields.io/github/stars/facebook/react-native-website?color=black&label=%F0%9F%8C%9F&style=for-the-badge)](https://github.com/facebook/react-native-website/commits?author=Randall71)|
+| [ink](https://github.com/vadimdemedes/ink/commits?author=Randall71)| [![GitHub Repo stars](https://img.shields.io/github/stars/vadimdemedes/ink?color=black&label=%F0%9F%8C%9F&style=for-the-badge)](https://github.com/vadimdemedes/ink/commits?author=Randall71)|
+
 
 
 
