@@ -8,6 +8,8 @@
          |   |
          |_  |_
 ```
+# Articles
+ [How to better improve Version Management with Expo ?](https://dub.sh/post-expo-app-management)
 
 # Contributions
 | Name                                                                                                               | Stars                                                                                                                                                                                                                                                                            |
